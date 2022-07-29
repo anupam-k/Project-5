@@ -4,5 +4,5 @@
 ![image](https://user-images.githubusercontent.com/91872149/181814515-b7d88818-c950-4b88-9ac6-acd935d9f280.png)
 
 
-## _Live Hosted Link_ : [Portfolio - Project 5](https://live-class-assignment-05.netlify.app/)
+## _Live Hosted Link_ : [Web3 Landing Page - Project 5](https://live-class-assignment-05.netlify.app/)
 
